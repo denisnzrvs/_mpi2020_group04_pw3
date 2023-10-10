@@ -3,6 +3,8 @@
     <string name="saveBtnTxt">Save</string>
     <string name="btn2Txt">Go to 2-nd</string>
     <string name="inputHintTxt">Put some text here!</string>
+    <string name="backBtnTxt">Back</string>
+    <string name="readPrefsBtn">Read Shared Preferences</string>
     <string-array name="themes">
         <item>Default</item>
         <item>Dark theme</item>
