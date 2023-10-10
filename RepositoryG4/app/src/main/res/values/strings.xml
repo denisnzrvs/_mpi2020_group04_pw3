@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Repository G-4</string>
+    <string name="saveBtnTxt">Save</string>
+    <string name="btn2Txt">Go to 2-nd</string>
+    <string name="inputHintTxt">Put some text here!</string>
+    <string-array name="themes">
+        <item>Default</item>
+        <item>Dark theme</item>
+        <item>Light theme</item>
+    </string-array>
+</resources>
